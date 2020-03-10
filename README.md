@@ -80,6 +80,11 @@ describe('App', function() {
 });
 ```
 
+###### Run test
+```
+npm test
+```
+
 ##### Git Instructions
 ```
 echo "# mochatest" >> README.md
